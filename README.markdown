@@ -45,7 +45,7 @@ If you already have a working OpenShift environment just follow these steps. You
 **NOTE** You can also specify your parameters in the command-line by using --param=PUBLIC_URL=test.domain.org, you should at least specify an PUBLIC_URL parameter matching your environment
 
 * If everything went correctly the applications will automatically build and deployed. It will be accessible on the specified PUBLIC_URL
-
+ 
 This specific application template doen't have any trigger enabled in order to allow Jenkins to fully control the build and deployment process. To manually build and deploy from the CLI, execute the following commands:
 
 ```
