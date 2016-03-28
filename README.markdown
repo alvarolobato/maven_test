@@ -61,7 +61,7 @@ Once the application is created on OpenShift follow these steps to configure Jen
 * Create a Username and Password credentials to login to your OpenShift server
 * Create a Pipeline Job and paste the `Jenkinsfile` script on the Pipeline Definition
 
-
+ 
 ## The book
 
 Streamline software development with Jenkins, the popular Java-based open source tool that has revolutionized the way teams think about Continuous Integration (CI). This complete guide shows you how to automate your build, integration, release, and deployment processes with Jenkins—and demonstrates how CI can save you time, money, and many headaches.
