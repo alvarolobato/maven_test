@@ -17,7 +17,7 @@ The acceptance tests are written using Webdriver and [Thucydides](http://thucydi
 A wildfly template is included `wildfly-j2ee-application-template-no-database.json` in order to deploy it in OpenShift Origin.
 
 The included `Jenkinsfile` will allow Jenkins to deploy the application to OpenShift in a Pipeline by using the image to source (I2S) OpenShift functionality.
-a sa
+a sadd
 #### Running the kapplication
 
 For information on how to prepare an OpenShift 3 Origin environment, refer to: https://github.com/openshift/origin/blob/master/examples/sample-app/README.md
