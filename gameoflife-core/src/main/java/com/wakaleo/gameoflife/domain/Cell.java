@@ -4,7 +4,7 @@ public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
     private String symbol;
-
+itentional compile error
     private Cell(final String initialSymbol) {
         this.symbol = initialSymbol;
     }
